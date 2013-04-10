@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <minimized>false</minimized>
+  <expand>2</expand>
+  <maxmultiply>10</maxmultiply>
+  <Interval>1</Interval>
+  <Display>0</Display>
+  <DivideLevel>64</DivideLevel>
+  <OffsetLevel>1</OffsetLevel>
+  <AutoEnable>true</AutoEnable>
+  <ProcessName>mpc-hc</ProcessName>
+  <enabled>false</enabled>
+  <LeftScanBegin>0</LeftScanBegin>
+  <LeftScanEnd>20</LeftScanEnd>
+  <TopScanBegin>12</TopScanBegin>
+  <TopScanEnd>25</TopScanEnd>
+  <RightScanBegin>80</RightScanBegin>
+  <RightScanEnd>100</RightScanEnd>
+</settings>

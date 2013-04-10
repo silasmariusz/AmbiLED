@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <comport>com1</comport>
+  <baudrate>19200</baudrate>
+  <color>30</color>
+  <enabled>false</enabled>
+  <minimized>false</minimized>
+  <mode>movie</mode>
+  <expand>2</expand>
+  <maxmultiply>10</maxmultiply>
+  <RedLeft>255</RedLeft>
+  <RedTop>255</RedTop>
+  <RedRight>255</RedRight>
+  <GreenLeft>255</GreenLeft>
+  <GreenTop>255</GreenTop>
+  <GreenRight>255</GreenRight>
+  <BlueLeft>255</BlueLeft>
+  <BlueTop>255</BlueTop>
+  <BlueRight>255</BlueRight>
+  <LeftScanBegin>10</LeftScanBegin>
+  <LeftScanEnd>50</LeftScanEnd>
+  <TopScanBegin>10</TopScanBegin>
+  <TopScanEnd>50</TopScanEnd>
+  <RightScanBegin>50</RightScanBegin>
+  <RightScanEnd>100</RightScanEnd>
+  <Interval>25</Interval>
+  <Display>0</Display>
+</settings>

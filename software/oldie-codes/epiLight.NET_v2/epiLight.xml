@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <comport>COM3</comport>
+  <baudrate>9600</baudrate>
+  <CaptureEvery>false</CaptureEvery>
+  <CaptureCycles>24</CaptureCycles>
+  <color>20</color>
+  <minimized>false</minimized>
+  <mode>(Cinema) Smooth+Aggressive Attack</mode>
+  <expand>2</expand>
+  <maxmultiply>10</maxmultiply>
+  <RedLeft>128</RedLeft>
+  <RedTop>128</RedTop>
+  <RedRight>128</RedRight>
+  <GreenLeft>96</GreenLeft>
+  <GreenTop>96</GreenTop>
+  <GreenRight>96</GreenRight>
+  <BlueLeft>128</BlueLeft>
+  <BlueTop>128</BlueTop>
+  <BlueRight>128</BlueRight>
+  <RedLeftOnExit>1</RedLeftOnExit>
+  <RedTopOnExit>1</RedTopOnExit>
+  <RedRightOnExit>1</RedRightOnExit>
+  <GreenLeftOnExit>3</GreenLeftOnExit>
+  <GreenTopOnExit>3</GreenTopOnExit>
+  <GreenRightOnExit>3</GreenRightOnExit>
+  <BlueLeftOnExit>6</BlueLeftOnExit>
+  <BlueTopOnExit>6</BlueTopOnExit>
+  <BlueRightOnExit>6</BlueRightOnExit>
+  <LeftScanBegin>0</LeftScanBegin>
+  <LeftScanEnd>20</LeftScanEnd>
+  <TopScanBegin>15</TopScanBegin>
+  <TopScanEnd>22</TopScanEnd>
+  <RightScanBegin>80</RightScanBegin>
+  <RightScanEnd>100</RightScanEnd>
+  <Interval>1</Interval>
+  <Display>0</Display>
+  <AggressiveAttack>128</AggressiveAttack>
+  <colorincsmooth>64</colorincsmooth>
+  <ColorIncSensitivity>3</ColorIncSensitivity>
+  <DivideLevel>64</DivideLevel>
+  <OffsetLevel>1</OffsetLevel>
+  <AutoEnable>true</AutoEnable>
+  <ProcessName>mpc-hc</ProcessName>
+  <enabled>false</enabled>
+  <RedLeftOnStart>255</RedLeftOnStart>
+  <RedTopOnStart>192</RedTopOnStart>
+  <RedRightOnStart>255</RedRightOnStart>
+  <GreenLeftOnStart>255</GreenLeftOnStart>
+  <GreenTopOnStart>255</GreenTopOnStart>
+  <GreenRightOnStart>255</GreenRightOnStart>
+  <BlueLeftOnStart>128</BlueLeftOnStart>
+  <BlueTopOnStart>255</BlueTopOnStart>
+  <BlueRightOnStart>128</BlueRightOnStart>
+</settings>
